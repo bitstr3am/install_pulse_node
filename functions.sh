@@ -37,7 +37,7 @@ function logviewer_prompt() {
   if [[ "$log_it" =~ ^[Yy]$ ]]; then
     while true; do
       echo "Choose a log viewer:"
-      echo "1. GUI/TAB Based Logviewer (serperate tabs; easy)"
+      echo "1. GUI/TAB Based Logviewer (Separate tabs; easy)"
       echo "2. TMUX Logviewer (AIO logs; advanced)"
 
       read -p "Enter your choice (1 or 2): " choice
