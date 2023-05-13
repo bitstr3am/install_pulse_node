@@ -1,7 +1,8 @@
 <div align="center">
    
-<img src="https://user-images.githubusercontent.com/46573429/233395501-99a54d99-7184-4d96-9d00-7b82f9da3939.png" style="max-width: 100%; margin: 0 auto;"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46573429/238115944-7791dc23-8150-459b-b07e-28a4c05345f6.png" style="max-width: 100%; margin: 0 auto;"/>
 </div>
+
 
 ## AIO Interactive Setup
 Pulse-Chain Unleashed: Experience the Harmony of Effortless Innovation and Peace of Mind with this interactive setup script 
@@ -24,7 +25,7 @@ This streamlined approach ensures that you have a smooth and hassle-free setup e
 
 #####  I am currently validating on the testnet and am hoping to expand my validator node to the mainnet as well. Donations are appreciated and will help cover the costs of running and maintaining the validator node, including staking requirements and infrastructure expenses. If you're interested in contributing, you can make a donation. Thank you for your support!
 
-Ethereum (ETH) &#x039E; : `0xCB00d822323B6f38d13A1f951d7e31D9dfDED4AA`
+Ethereum (ETH) &#x039E; & (PRC20) : `0xCB00d822323B6f38d13A1f951d7e31D9dfDED4AA`
 
 ## |#| Prerequisites
 

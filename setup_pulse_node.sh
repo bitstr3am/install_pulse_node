@@ -45,6 +45,7 @@ echo "
                  ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                         
                    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                                                                                                   
                                                                              "
+
 echo "                                                          
        _       _            _              _             ___ 
       | |     | |          | |            | |           /   |
@@ -56,6 +57,7 @@ echo "
 |_| donations: 0xCB00d822323B6f38d13A1f951d7e31D9dfDED4AA                        
 
 "
+
 echo "Please press Enter to continue..."
 read -p ""
 clear                                                                                                                                                                                                                          
